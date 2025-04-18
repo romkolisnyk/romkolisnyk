@@ -1,5 +1,5 @@
 🐸 A good guy, skilled in `HTML`, `CSS`, `JS/TS`, UI/UX, minimalism, perfectionism, pragmatism, altruism. </br>
-❤️ Love creating things that look clean, feel smooth, make sense, enhance the world.
+😻 Love creating things that look clean, work fast & smooth, make sense, and make the world better.
 
 _• experience working with complex products, large teams & managing small ones • creating scalable, fast, accessible, semantic, animated, thoughtful UI/UX • strong attention to details • proficient with modern FE tools • reliable & responsible_
 
