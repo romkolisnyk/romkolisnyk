@@ -14,7 +14,7 @@ _• experience with AI/spec-driven dev, complex products, large teams & managin
 - Formula 1, simracing
 
 ### 🐣 my projects:
-- [Pikamark - a cozy home for your bookmarks](https://pikamark.app/) (_Real bookmarks manager for new tab page. Highly customizable and functional, multilingual_)
+- [**Pikamark**](https://pikamark.app/) - _Real bookmarks manager for new tab page (Chrome, Edge, Firefox). Highly customizable and functional, multilingual_
 
 <!---
 romkolisnyk/romkolisnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
